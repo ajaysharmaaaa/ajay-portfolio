@@ -6,7 +6,7 @@ export default function Hero() {
     >
       {/* Image */}
       <img
-        src="/public/images/Ajay.jpg"
+        src="/images/Ajay.jpg"
         alt="profile"
         className="w-40 h-40 rounded-full object-cover mb-6"
       />

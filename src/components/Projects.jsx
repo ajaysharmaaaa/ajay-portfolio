@@ -3,37 +3,37 @@ import { ArrowUpRight } from "lucide-react";
 export default function Projects() {
   const projects = [
     {
-      img: "/public/images/Khichad.png",
+      img: "/images/Khichad.png",
       title: "Khichad Corporate Portal",
       tech: "Liferay, React",
       link: "https://khichad.com/",
     },
     {
-      img: "/public/images/Al Jadaara.png",
+      img: "/images/Al Jadaara.png",
       title: "Al Jadaara Website",
       tech: "React",
       link: "https://aljadaara.gov.ae/en/",
     },
     {
-      img: "/public/images/Tafe.png",
+      img: "/images/Tafe.png",
       title: "Tafe Portal",
       tech: "Liferay",
       link: "https://www.tafe.com/",
     },
     {
-      img: "/public/images/Gazi Hotel.png",
+      img: "/images/Gazi Hotel.png",
       title: "Gazi Hotel",
       tech: "Wordpress",
       link: "https://gajihoteljaisalmer.com/",
     },
     {
-      img: "/public/images/The River Garden.png",
+      img: "/images/The River Garden.png",
       title: "The River Garden",
       tech: "Wordpress",
       link: "https://therivergarden.co.uk/",
     },
     {
-      img: "/public/images/UFC Gym.png",
+      img: "/images/UFC Gym.png",
       title: "UFC GYM Website",
       tech: "React",
       link: "https://ufcgym.in/",
