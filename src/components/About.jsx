@@ -50,7 +50,7 @@ export default function About() {
 
       {/* Button */}
       <a
-        href="/public/resume/Ajay Sharma Resume.pdf"
+        href="resume/Ajay Sharma Resume.pdf"
         download
         className="
         inline-block mt-10 px-8 py-3 rounded-full
