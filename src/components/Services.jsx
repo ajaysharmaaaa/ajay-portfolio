@@ -49,7 +49,7 @@ export default function Services() {
       </h5>
 
       {/* Sub Heading */}
-      <p className="mt-2 text-[12px] md:text-[13px] lg:text-[14px] font-semibold bg-gradient-to-r from-[#4FC3F7] to-[#484E53] bg-clip-text text-transparent">
+      <p className="mt-2 text-[17px] md:text-[18px] lg:text-[19px] font-semibold bg-gradient-to-r from-[#4FC3F7] to-[#484E53] bg-clip-text text-transparent">
         My Services
       </p>
 
@@ -66,12 +66,12 @@ export default function Services() {
             </div>
 
             {/* Card Heading */}
-            <h3 className="text-[#484E53] dark:text-white font-semibold text-[13px] md:text-[14px] lg:text-[15px]">
+            <h3 className="text-[#484E53] dark:text-white font-semibold text-[17px] md:text-[18px] lg:text-[19px]">
               {item.title}
             </h3>
 
             {/* Card Para */}
-            <p className="mt-3 text-[#1C1E53] dark:text-white  font-semibold text-[12px] md:text-[13px] lg:text-[14px] leading-relaxed">
+            <p className="mt-3 text-[#1C1E53] dark:text-white  font-semibold text-[15px] md:text-[16px] lg:text-[17px] leading-relaxed">
               {item.desc}
             </p>
           </div>

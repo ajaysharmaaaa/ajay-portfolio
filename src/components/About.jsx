@@ -18,7 +18,7 @@ export default function About() {
       <p
         className="
          font-semibold
-        text-[12px] md:text-[13px] lg:text-[14px]
+        text-[17px] md:text-[18px] lg:text-[19px]
         bg-gradient-to-r from-[#4FC3F7] to-[#484E53]
         bg-clip-text text-transparent mt-0
         "
@@ -31,7 +31,7 @@ export default function About() {
         className="
         mt-8 max-w-3xl mx-auto
         text-[#1C1E53] dark:text-white font-medium
-        text-[13px] md:text-[16px] lg:text-[17px]
+        text-[16px] md:text-[18px] lg:text-[19px]
         leading-relaxed space-y-6
         "
       >
@@ -56,7 +56,7 @@ export default function About() {
         inline-block mt-10 px-8 py-3 rounded-full
         border border-[#585858]
         font-montserrat font-medium text-[#1C1E53] dark:text-white
-        text-[13px] md:text-[14px] lg:text-[15px]
+        text-[16px] md:text-[17px]
         hover:bg-[#585858] hover:text-white transition
         "
       >

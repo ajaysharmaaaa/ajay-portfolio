@@ -20,7 +20,7 @@ const socialLinks = [
 
 export default function Footer() {
   return (
-    <footer className="font-inter py-10 flex flex-col justify-end px-6 md:px-12 lg:px-20">
+    <footer className="font-inter pt-20 md:pt-24 py-10 flex flex-col justify-end px-6 md:px-12 lg:px-20">
 
       {/* Top Section */}
       <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-8 py-16">

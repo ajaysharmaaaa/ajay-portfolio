@@ -37,7 +37,7 @@ export default function Hero() {
       <p
         className="
         font-poppins text-[#484E53] dark:text-white
-        text-[14px] md:text-[17px] lg:text-[19px]
+        text-[16px] md:text-[18px] lg:text-[19px]
         max-w-2xl mt-4 leading-relaxed
         "
       >
@@ -57,7 +57,7 @@ export default function Hero() {
         className="
         mt-6 px-8 py-3 rounded-full border border-[#484E53]
         font-montserrat text-[#484E53] dark:text-white
-        text-[13px] md:text-[16px] lg:text-[17px]
+        text-[16px] md:text-[17px]
         font-medium hover:bg-[#484E53] hover:text-white transition
         "
       >

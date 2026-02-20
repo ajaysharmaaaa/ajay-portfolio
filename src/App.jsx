@@ -13,23 +13,23 @@ function App() {
 
       <Navbar />
 
-      <section id="home" className=" pt-16 md:pt-24">
+      <section id="home" className=" pt-20 md:pt-24">
         <Hero />
       </section>
 
-      <section id="about" className="pt-16 md:pt-24">
+      <section id="about" className="pt-20 md:pt-24">
         <About />
       </section>
 
-      <section id="services" className="pt-16 md:pt-24">
+      <section id="services" className="pt-20 md:pt-24">
         <Services />
       </section>
 
-      <section id="projects" className="pt-16 md:pt-24">
+      <section id="projects" className="pt-20 md:pt-24">
         <Projects />
       </section>
 
-      <section id="contact" className="pt-16 md:pt-24">
+      <section id="contact" className="pt-20 md:pt-24">
         <Contact />
       </section>
 

@@ -49,7 +49,7 @@ export default function Projects() {
       </h5>
 
       {/* Sub Heading */}
-      <p className="mt-2 text-[12px] md:text-[13px] lg:text-[14px] font-semibold bg-gradient-to-r from-[#4FC3F7] to-[#484E53] bg-clip-text text-transparent">
+      <p className="mt-2 text-[17px] md:text-[18px] lg:text-[19px] font-semibold bg-gradient-to-r from-[#4FC3F7] to-[#484E53] bg-clip-text text-transparent">
         Some of my Work
       </p>
 
@@ -60,18 +60,25 @@ export default function Projects() {
 
             {/* Image */}
             <div className="relative group overflow-hidden rounded-xl">
+              <a
+                href={item.link}              >
               <img
                 src={item.img}
                 alt={item.title}
                 className="w-full object-fill h-[220px] transition duration-300 group-hover:scale-105"
               />
+              </a>
             </div>
 
             {/* Title + Icon */}
             <div className="flex items-center justify-between mt-4">
-              <h3 className="text-[#484E53] dark:text-white font-bold text-[16px] md:text-[18px] lg:text-[20px]">
+              <a
+                href={item.link}
+              >
+              <h3 className="text-[#484E53] dark:text-white font-bold text-[18px] md:text-[20px] lg:text-[22px]">
                 {item.title}
               </h3>
+              </a>
 
               <a
                 href={item.link}
@@ -83,7 +90,7 @@ export default function Projects() {
             </div>
 
             {/* Tech */}
-            <p className="text-[#484E53] dark:text-white font-medium text-[12px] md:text-[13px] lg:text-[14px] mt-1">
+            <p className="text-[#484E53] dark:text-white font-medium text-[16px] md:text-[18px] lg:text-[20px] mt-1">
               {item.tech}
             </p>
           </div>

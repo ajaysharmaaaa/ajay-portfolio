@@ -38,7 +38,7 @@ export default function Contact() {
       </h3>
 
       {/* Subheading */}
-      <p className="mt-2 text-[12px] md:text-[13px] lg:text-[14px] font-semibold bg-gradient-to-r from-[#4FC3F7] to-[#484E53] bg-clip-text text-transparent">
+      <p className="mt-2 text-[17px] md:text-[18px] lg:text-[19px] font-semibold bg-gradient-to-r from-[#4FC3F7] to-[#484E53] bg-clip-text text-transparent">
         Lets work together
       </p>
 
